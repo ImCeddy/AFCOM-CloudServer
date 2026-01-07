@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "express": "^4.18.0",
-    "http-proxy": "^1.18.1"
+    "http-proxy": "^1.18.1",
+    "ws": "^8.14.0"
   },
   "keywords": ["iot", "mushroom", "cultivation", "sensor", "monitoring"],
   "author": "ImCeddy",
