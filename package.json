@@ -1,0 +1,18 @@
+{
+  "name": "afcom-cloud-server",
+  "version": "1.0.0",
+  "description": "Cloud server for AFCOM Mushroom Cultivation Tracker",
+  "type": "module",
+  "main": "cloud-server.js",
+  "scripts": {
+    "start": "node cloud-server.js",
+    "dev": "node cloud-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "http-proxy": "^1.18.1"
+  },
+  "keywords": ["iot", "mushroom", "cultivation", "sensor", "monitoring"],
+  "author": "ImCeddy",
+  "license": "MIT"
+}
